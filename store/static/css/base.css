@@ -1,0 +1,12 @@
+body{
+    background: #f3f3f3;
+}
+
+.errorlist li{
+    color: red;
+    font-weight: bold;
+}
+
+.custom_div{
+    margin-bottom: 20px;
+}
